@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\Day1_Implemetation\Day1_Implemetation\bin\Debug\Day1_Implemetation.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\Day1_Implemetation\Day1_Implemetation\bin\Debug\Day1_Implemetation.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Day1_Implemetation\Day1_Implemetation\bin\Debug\Day1_Implemetation.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\Day1_Implemetation\Day1_Implemetation\obj\Debug\Day1_Implemetation.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\Day1_Implemetation\Day1_Implemetation\obj\Debug\Day1_Implemetation.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Day1_Implemetation\Day1_Implemetation\obj\Debug\Day1_Implemetation.pdb
